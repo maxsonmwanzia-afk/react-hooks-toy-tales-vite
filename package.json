@@ -30,7 +30,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "server": "json-server db.json -p 3001",
+    "server": "json-server db.json -p 4000",
     "test": "vitest"
   },
   "eslintConfig": {
